@@ -1,0 +1,1 @@
+este programa divede uma lista de alunos em dois grupos principais e os grupos principais em subgrupos de no maximo 4 pessoas.
